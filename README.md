@@ -1,1 +1,0 @@
-# hmcPaper_scripts
